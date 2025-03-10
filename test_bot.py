@@ -56,3 +56,4 @@ def callback_worker(call):
         bot.send_message(call.message.chat.id, 'Запомню : )');
     elif call.data == "no":
         bot.send_message(call.message.chat.id, 'Напиши снова : )');
+
