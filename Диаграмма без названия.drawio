@@ -1,41 +1,43 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Страница — 1" id="Jb-5Hu8HWLz_g-Zm4u8E">
-    <mxGraphModel dx="2505" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="1542" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DNcha9Pwi-bw8J21Od16-33" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1220" y="910" width="500" height="1355" as="geometry" />
-        </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="DNcha9Pwi-bw8J21Od16-33" source="6FAnHJaDgQSI7gQvsbUK-12" target="DNcha9Pwi-bw8J21Od16-1">
+        <mxCell id="DNcha9Pwi-bw8J21Od16-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="6FAnHJaDgQSI7gQvsbUK-12" target="DNcha9Pwi-bw8J21Od16-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6FAnHJaDgQSI7gQvsbUK-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Начало&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="DNcha9Pwi-bw8J21Od16-33" vertex="1">
-          <mxGeometry x="150" width="80" height="50" as="geometry" />
+        <mxCell id="6FAnHJaDgQSI7gQvsbUK-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Начало&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="340" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DNcha9Pwi-bw8J21Od16-33" source="DNcha9Pwi-bw8J21Od16-1" target="DNcha9Pwi-bw8J21Od16-3">
+        <mxCell id="DNcha9Pwi-bw8J21Od16-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNcha9Pwi-bw8J21Od16-1" target="DNcha9Pwi-bw8J21Od16-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Админ:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Создание опроса&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="DNcha9Pwi-bw8J21Od16-33">
-          <mxGeometry x="130" y="125" width="120" height="60" as="geometry" />
+        <mxCell id="DNcha9Pwi-bw8J21Od16-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Админ:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Создание опроса&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="980" y="465" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DNcha9Pwi-bw8J21Od16-33" source="DNcha9Pwi-bw8J21Od16-3" target="DNcha9Pwi-bw8J21Od16-5">
+        <mxCell id="DNcha9Pwi-bw8J21Od16-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNcha9Pwi-bw8J21Od16-3" target="DNcha9Pwi-bw8J21Od16-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Участники:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Голосование&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="DNcha9Pwi-bw8J21Od16-33">
-          <mxGeometry x="130" y="265" width="120" height="60" as="geometry" />
+        <mxCell id="DNcha9Pwi-bw8J21Od16-62" value="ПОДТВЕРДИЛИ ГОЛОСОВАНИЕ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DNcha9Pwi-bw8J21Od16-6">
+          <mxGeometry x="-0.2183" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="17" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DNcha9Pwi-bw8J21Od16-33" source="DNcha9Pwi-bw8J21Od16-5" target="DNcha9Pwi-bw8J21Od16-7">
+        <mxCell id="DNcha9Pwi-bw8J21Od16-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Участники:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Голосование&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="980" y="605" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcha9Pwi-bw8J21Od16-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DNcha9Pwi-bw8J21Od16-5" target="DNcha9Pwi-bw8J21Od16-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Отправка QR-кода для оплаты&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="DNcha9Pwi-bw8J21Od16-33">
-          <mxGeometry x="130" y="405" width="120" height="60" as="geometry" />
+        <mxCell id="DNcha9Pwi-bw8J21Od16-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Отправка QR-кода для оплаты&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="980" y="788.33" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DNcha9Pwi-bw8J21Od16-33" source="DNcha9Pwi-bw8J21Od16-7" target="DNcha9Pwi-bw8J21Od16-9">
+        <mxCell id="DNcha9Pwi-bw8J21Od16-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DNcha9Pwi-bw8J21Od16-7" target="DNcha9Pwi-bw8J21Od16-13">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="1400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="60" y="575" />
-              <mxPoint x="60" y="715" />
+              <mxPoint x="950" y="1170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -44,52 +46,135 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-7" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Админ:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Подтверждение оплаты&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="DNcha9Pwi-bw8J21Od16-33">
-          <mxGeometry x="130" y="545" width="120" height="60" as="geometry" />
+        <mxCell id="DNcha9Pwi-bw8J21Od16-7" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Админ:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Подтверждение оплаты&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DNcha9Pwi-bw8J21Od16-33" source="DNcha9Pwi-bw8J21Od16-9" target="DNcha9Pwi-bw8J21Od16-11">
+        <mxCell id="DNcha9Pwi-bw8J21Od16-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNcha9Pwi-bw8J21Od16-13" target="DNcha9Pwi-bw8J21Od16-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Формирование списка по приоритетам&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="DNcha9Pwi-bw8J21Od16-33">
-          <mxGeometry y="740" width="120" height="60" as="geometry" />
+        <mxCell id="DNcha9Pwi-bw8J21Od16-13" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Запись данных в Google Sheets(поиск по ФИО):&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;время оплаты, выбор тренировок&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1400" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DNcha9Pwi-bw8J21Od16-33" source="DNcha9Pwi-bw8J21Od16-11" target="DNcha9Pwi-bw8J21Od16-13">
+        <mxCell id="DNcha9Pwi-bw8J21Od16-27" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Сортировка участников(в GS):&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;по приоритетам, по времени оплаты&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1630" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcha9Pwi-bw8J21Od16-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DNcha9Pwi-bw8J21Od16-44" target="DNcha9Pwi-bw8J21Od16-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Проверка и подтверждение списка&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="DNcha9Pwi-bw8J21Od16-33">
-          <mxGeometry y="870" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DNcha9Pwi-bw8J21Od16-33" source="DNcha9Pwi-bw8J21Od16-13" target="DNcha9Pwi-bw8J21Od16-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-13" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Запись данных в Google Sheets&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="DNcha9Pwi-bw8J21Od16-33">
-          <mxGeometry y="1005" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-24" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="DNcha9Pwi-bw8J21Od16-33" source="DNcha9Pwi-bw8J21Od16-7" target="DNcha9Pwi-bw8J21Od16-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="585" as="sourcePoint" />
-            <mxPoint x="210" y="705" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="320" y="585" />
-              <mxPoint x="270" y="535" />
-              <mxPoint x="500" y="545" />
-              <mxPoint x="370" y="785" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-26" value="НЕТ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DNcha9Pwi-bw8J21Od16-24">
-          <mxGeometry x="0.0882" y="1" relative="1" as="geometry">
+        <mxCell id="DNcha9Pwi-bw8J21Od16-55" value="ДА" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DNcha9Pwi-bw8J21Od16-54">
+          <mxGeometry x="-0.143" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DNcha9Pwi-bw8J21Od16-33" source="DNcha9Pwi-bw8J21Od16-27" target="DNcha9Pwi-bw8J21Od16-31">
+        <mxCell id="DNcha9Pwi-bw8J21Od16-44" value="&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Пользователь:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Подтверждение оплаты&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="980" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcha9Pwi-bw8J21Od16-48" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DNcha9Pwi-bw8J21Od16-44" target="DNcha9Pwi-bw8J21Od16-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1330" y="780" as="sourcePoint" />
+            <mxPoint x="1320" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1280" y="830" />
+              <mxPoint x="1370" y="910" />
+              <mxPoint x="1330" y="950" />
+              <mxPoint x="1160" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNcha9Pwi-bw8J21Od16-57" value="НЕТ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DNcha9Pwi-bw8J21Od16-48">
+          <mxGeometry x="0.3917" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNcha9Pwi-bw8J21Od16-56" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.682;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DNcha9Pwi-bw8J21Od16-7" target="DNcha9Pwi-bw8J21Od16-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="1090" as="sourcePoint" />
+            <mxPoint x="1040" y="1170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1150" y="1090" />
+              <mxPoint x="1290" y="1150" />
+              <mxPoint x="1160" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNcha9Pwi-bw8J21Od16-58" value="НЕТ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DNcha9Pwi-bw8J21Od16-56">
+          <mxGeometry x="0.1329" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNcha9Pwi-bw8J21Od16-61" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DNcha9Pwi-bw8J21Od16-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1140" y="635" as="sourcePoint" />
+            <mxPoint x="1070" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1190" y="635" />
+              <mxPoint x="1400" y="630" />
+              <mxPoint x="1250" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNcha9Pwi-bw8J21Od16-63" value="ОТМЕНИЛИ ГОЛОСОВАНИЕ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DNcha9Pwi-bw8J21Od16-61">
+          <mxGeometry x="-0.5704" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNcha9Pwi-bw8J21Od16-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNcha9Pwi-bw8J21Od16-65" target="DNcha9Pwi-bw8J21Od16-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-27" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Сортировка участников&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="DNcha9Pwi-bw8J21Od16-33">
-          <mxGeometry y="1145" width="120" height="60" as="geometry" />
+        <mxCell id="DNcha9Pwi-bw8J21Od16-75" value="ПОЛЬЗОВАТЕЛЬ ПОДТВЕРДИЛ УЧАСТИЕ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DNcha9Pwi-bw8J21Od16-74">
+          <mxGeometry x="-0.1635" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="DNcha9Pwi-bw8J21Od16-31" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Конец&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="DNcha9Pwi-bw8J21Od16-33">
-          <mxGeometry x="20" y="1275" width="80" height="80" as="geometry" />
+        <mxCell id="DNcha9Pwi-bw8J21Od16-65" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Отправка уведомления:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Подтверждение тренировок, выбранные тренировки/резерв&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="830" y="2000" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcha9Pwi-bw8J21Od16-71" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DNcha9Pwi-bw8J21Od16-65" target="DNcha9Pwi-bw8J21Od16-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="2030" as="sourcePoint" />
+            <mxPoint x="1070" y="2170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1200" y="2030" />
+              <mxPoint x="1340" y="2025" />
+              <mxPoint x="1220" y="2190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNcha9Pwi-bw8J21Od16-72" value="ПОЛЬЗОВАТЕЛЬ&amp;nbsp; НЕ ПОДТВЕРДИЛ УЧАСТИЕ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DNcha9Pwi-bw8J21Od16-71">
+          <mxGeometry x="-0.0424" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNcha9Pwi-bw8J21Od16-73" value="Конец" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="920" y="2240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcha9Pwi-bw8J21Od16-76" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.688;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DNcha9Pwi-bw8J21Od16-27" target="DNcha9Pwi-bw8J21Od16-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="1670" as="sourcePoint" />
+            <mxPoint x="1010" y="1780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1150" y="1670" />
+              <mxPoint x="1350" y="1690" />
+              <mxPoint x="1270" y="1820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNcha9Pwi-bw8J21Od16-77" value="АДМИН&amp;nbsp; НЕ ПОДТВЕРДИЛ СПИСОК" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DNcha9Pwi-bw8J21Od16-76">
+          <mxGeometry x="-0.1257" y="-14" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNcha9Pwi-bw8J21Od16-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.465;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DNcha9Pwi-bw8J21Od16-27" target="DNcha9Pwi-bw8J21Od16-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940.67" y="1740" as="sourcePoint" />
+            <mxPoint x="940" y="1900" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNcha9Pwi-bw8J21Od16-80" value="АДМИН ПОДТВЕРДИЛ СПИСОК" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DNcha9Pwi-bw8J21Od16-78">
+          <mxGeometry x="-0.1382" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
